@@ -98,8 +98,8 @@ Event Organizer can upload an event | Event Organizer can input a detailed infor
 `#mobile`
 
 ######**News and Journalism**
-`#live`
-`#discussion`
+`#localnews`
+`#community`
 
 
 
