@@ -50,7 +50,7 @@ Eventus is intended for those who seek entertainments and events within the user
 
 ####**Source of Events**
 
-The event can be posted by everyone with several requirements to verify the authenticity of the event. There are two roles for sharing event which are event organizer and ordinary users. Event organizer should put the project officer’s contact details or website or Facebook business page, then the platform will verify the provided information by sharing one time code the project’s officer email or phone number. The team plans to gather the local events data from trusted data sources, such as Eventbrite or the city council’s database. However, if there are two events published even though they are the same event, the application can make sure only one event is published. This can be achieved by comparing the location, date, time and name of the event with the stored event.
+The event can be posted by event organizers with several requirements to verify the authenticity of the event. Event organizer should put the project officer’s contact details or website or Facebook business page, then the platform will verify the provided information by sharing one time code the project’s officer email or phone number. The team plans to gather the local events data from trusted data sources, such as Eventbrite or the city council’s database. 
 
 ####**Technical Concepts and Features**
 
