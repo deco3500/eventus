@@ -57,7 +57,6 @@ For conflict resolution, we will discuss the problem with the involved team memb
 * If a member couldn't come to the meeting, that person should tell the others in Facebook Messanger.
 * If a member couldn't come on time to the meeting, that person should tell the others in Facebook Messanger.
 * If a member couldn't come to the meeting and couldn't tell the others on Facebook Messanger, we would contact that person by Facebook Messanger or call him.
-* If a member wasn't able to reply a chat on Facebook Messanger, we would call the person.
 
 ###Communications
 
