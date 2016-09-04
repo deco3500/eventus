@@ -32,13 +32,13 @@ These are the role of each team member in developing the project prototype:
 
 Decision, ideas and suggestions will be discussed together as a team before a common consensus is made. Voting may be used when necessary. 
 
-######**Handling Poor Performance**
+####**Handling Poor Performance**
 
 We will talk to the related member and find out the obstacles that the member experience with. After finding the obstacles, we will find the solution together. 
 
 For conflict resolution, we will discuss the problem with the involved team members and find the solution together. If the problem cannot be solved by us, we will ask the tutors or lecturer for the solution regarding the problem.
 
-####Communications
+###Communications
 
 The Team will meet during the workshop hours at the University of Queensland and will arrange to meet outside school hours at a prearranged venue as required. Facebook messenger is the choice of use for our team’s communication. Files will be stored and shared on Google Drive. The file naming convention will be: [Team Nearby]xxxxx.
 
@@ -66,7 +66,7 @@ By using the resources provided to us with current technology, knowledge and res
 
 Ultimately, innovation is not a one step process and it always needs feedback. Feedback is going to be our guidance for evolution on Eventus. With the project eventually reaching the stages of publishing, there will be on field tests that need to be performed, at that time, resources supporting the content will be required in order to enact a real world scenario for user testing.
 
-######**Milestones**
+####**Milestones**
 
 * We will try to finish the entire cycle / sprint 0 by week 8. In this week, we will demonstrate about the idea and feature of the application, database design, prototype of the application, API blueprint and user stories. We will use the demo session on workshop 2 to gain insightful feedback.
 * We will end our sprint 1 by week 11. However on week 10, we will show our progress to the tutors, lecturer and other students to get feedback for the major part of the running product.
@@ -74,7 +74,7 @@ Ultimately, innovation is not a one step process and it always needs feedback. F
 
 The below table is discussing about the features that will be implemented for the application:
 
-######**Minimum Viable Product**
+####**Minimum Viable Product**
 
 
 Feature | Major | Nice to have
@@ -90,14 +90,14 @@ Event Organizer can upload an event | Event Organizer can input a detailed infor
 
 ###Tags
 
-######**Social and Mobile Computing**
+####**Social and Mobile Computing**
 `#awareness`
 `#local`
 `#social`
 `#engagement`
 `#mobile`
 
-######**News and Journalism**
+####**News and Journalism**
 `#localnews`
 `#community`
 
