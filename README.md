@@ -1,5 +1,4 @@
 #Team Nearby
-##For the Nearby project idea.
 
 ###Intorduction
 
