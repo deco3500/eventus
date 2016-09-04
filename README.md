@@ -24,7 +24,7 @@ The event can be posted by everyone with several requirements to verify the auth
 
 The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. User can see the detailed information regarding the event. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code through this application. In addition, this application can shows live tweets or discussion from Twitter.
 
-####Different Offerings with Other Competitors
+####**Different Offerings with Other Competitors**
 
 This application focuses on the user’s current location while other applications, such as Eventbrite, focus on being an event catalog in a city of country. User can provide rate to each event that the user attends and they can see the rating of the event.
 
@@ -53,15 +53,19 @@ For conflict resolution, we will discuss the problem with the involved team memb
 
 ###Communications
 
+####**Team Meeting**
 The Team will meet during the workshop hours at the University of Queensland and will arrange to meet outside school hours at a prearranged venue as required. Facebook messenger is the choice of use for our team’s communication. Files will be stored and shared on Google Drive. The file naming convention will be: [Team Nearby]xxxxx.
 
+####**Communication Tools and File Naming Convention**
 Facebook and Slack will be used as our social platforms. Facebook was chosen because it everyone is already on it and it is very much integrated into our lives, it is an multi-platform and messages are stored on their servers so it is easy to retrieve information no matter what devices are used. Slack is an effective team communication platform with is widely used by UQ students, it integrates with other services like Trello, Github. A useful feature it has is also the ability to have group communication and one to one communication in the same space.  
 
 ###Plan
 
 The project plan would be carried out in numerous stages, by planning and coordinating allocated tasks between team members, steady and consistent contribution, the team will fall nothing short of success.
 
-First the team needs to have a strong understanding of the proposed idea, research for other existing products or ideas that are similar and develop differences between our idea and the product found, this process will boost the members confidence, which will help future endeavours. From there, the team needs to discuss the direction to take for the first prototype; from interfaces to design, everything needs to be discussed. By using sketches, paper prototypes, colour palette samples, and user feedback, the first prototype will give a strong insight on the strength and weaknesses of the design. By digesting the information from the feedback, the team can re-iterate the initial prototype in preparation for round two of prototyping and user testing. The repeated process will always be running in a loop in order to fix any issues the design may create. We will adopt design sprint framework by Google Ventures. The process consists of five days of ideation.
+First the team needs to have a strong understanding of the proposed idea, research for other existing products or ideas that are similar and develop differences between our idea and the product found, this process will boost the members confidence, which will help future endeavours. From there, the team needs to discuss the direction to take for the first prototype; from interfaces to design, everything needs to be discussed. By using sketches, paper prototypes, colour palette samples, and user feedback, the first prototype will give a strong insight on the strength and weaknesses of the design. By digesting the information from the feedback, the team can re-iterate the initial prototype in preparation for round two of prototyping and user testing. The repeated process will always be running in a loop in order to fix any issues the design may create. We will adopt design sprint framework by Google Ventures. 
+
+####**These are five days process of ideation based on design sprint by GV**
 
 1. Day 1: We learn more about the proposed idea from the customer perspective. We will look who is the intended users and learn what they need. We also learn from the competitors point of view by searching what is their advantages and disadvantages.
 2. Day 2: Formulate the solutions and ideate from the proposed solutions.
@@ -69,12 +73,15 @@ First the team needs to have a strong understanding of the proposed idea, resear
 4. Day 4: Build a rough prototype. The focus here is the usability not design.
 5. Day 5: Show the prototype to the users not from our group (probably from tutors or other students) and receive feedback from the users.
 
-The project development should be divided into several cycles. This product will be developed by using Scrum framework.  
-####**This is the project iteration plan**
+The project development should be divided into several cycles. This product will be developed by using Scrum framework.
+
+####**This are the project iteration plan**
 
 1. Sprint 0: Project preparation and planning. In this stage, we will prepare everything to make this application. The activities are making the mockups of the application, preparing the development environment, designing the database, dividing the epics into several stories and later divide the stories into tasks, making testing criteria and making the API blueprint.
 2. Sprint 1: Start developing and testing the major parts of the application. However before the start of Cycle 1, we need to talk to each other and try to assign each task to each member. The deliverables in this cycle is the application but limited to major features only.
 3. Sprint 2: Start developing and testing the minor parts of the application and refining the major parts based on the received critiques. This is the last cycle for this project development. The deliverables in this cycle is the complete application.
+
+####**Resources**
 
 By using the resources provided to us with current technology, knowledge and research, the team will be able to carry out important tasks for Eventus to be developed. We need a mobile developer to develop this application with a knowledge of relational database, server side development and client side development. We are likely going to develop this application by using Ionic Framework not native mobile application. We also need a UX skill for designing an application that is intuitive to be used by anyone. 
 
@@ -90,7 +97,6 @@ The below table is discussing about the features that will be implemented for th
 
 ####**Minimum Viable Product**
 
-
 Feature | Major | Nice to have
 --------|-------|-------------
 Scan nearby events | The app will automatically scan nearby events within 5 km from user’s location. | The user can change the radius of nearby events.
@@ -100,7 +106,6 @@ User can share an event | User can share an event through email. | User can shar
 User can see the detail of the event | User can see the detail information regarding the event. | User can rate and see the rating of the event.
 Event Organizer can upload an event | Event Organizer can input a detailed information about the event and confirm the existence of the event. | Event organizer can see how many users bookmark the event.
  | | Events can be gathered from through party APIs, such as Eventbrite API or pulled from Brisbane City Council’s database.
-
 
 ###Tags
 
