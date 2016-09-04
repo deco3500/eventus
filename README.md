@@ -51,6 +51,14 @@ We will talk to the related member and find out the obstacles that the member ex
 
 For conflict resolution, we will discuss the problem with the involved team members and find the solution together. If the problem cannot be solved by us, we will ask the tutors or lecturer for the solution regarding the problem.
 
+####**Team Communication**
+
+* Each of member will use Facebook Messanger to communicate with each others. 
+* If a member couldn't come to the meeting, that person should tell the others in Facebook Messanger.
+* If a member couldn't come on time to the meeting, that person should tell the others in Facebook Messanger.
+* If a member couldn't come to the meeting and couldn't tell the others on Facebook Messanger, we would contact that person by Facebook Messanger or call him.
+* If a member wasn't able to reply a chat on Facebook Messanger, we would call the person.
+
 ###Communications
 
 ####**Team Meeting**
