@@ -126,7 +126,7 @@ Event Organizer can upload an event | Event Organizer can input a detailed infor
 
 ####**News and Journalism**
 `#localnews`
-`#community`
+`#eventjournalism`
 
 
 
