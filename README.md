@@ -18,6 +18,8 @@ The event can be posted by everyone with several requirements to verify the auth
 
 The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. User can see the detailed information regarding the event. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code through this application. In addition, this application can shows live tweets or discussion from Twitter.
 
+####Different Offerings with Other Competitors
+
 This application focuses on the user’s current location while other applications, such as Eventbrite, focus on being an event catalog in a city of country. User can provide rate to each event that the user attends and they can see the rating of the event.
 
 ###Team
