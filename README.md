@@ -1,7 +1,7 @@
 #Team Nearby
 
 #Table of Content
-1. [Introduction] (/Introduction)
+1. [Introduction] (https://github.com/deco3500/Team-Nearby/Introduction)
 
 
 ###Intorduction
