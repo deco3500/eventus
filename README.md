@@ -85,6 +85,8 @@ Browse for events based on categories | The app can group events into several ca
 User can share an event | User can share an event through email. | User can share the event through social network account, e.g. Facebook or Twitter.
 User can see the detail of the event | User can see the detail information regarding the event. | User can rate and see the rating of the event.
 Event Organizer can upload an event | Event Organizer can input a detailed information about the event and confirm the existence of the event. | Event organizer can see how many users bookmark the event.
+ | | Events can be gathered from through party APIs, such as Eventbrite API or pulled from Brisbane City Council’s database.
+
 
 ####Tags
 
