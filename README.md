@@ -92,9 +92,13 @@ For conflict resolution, we will discuss the problem with the involved team memb
 ###Communications
 
 ####**Team Meeting**
-The Team will meet during the workshop hours at the University of Queensland and will arrange to meet outside school hours at a prearranged venue as required. Facebook messenger is the choice of use for our team’s communication. Files will be stored and shared on Google Drive. The file naming convention will be: [Team Nearby]xxxxx.
+
+The Team will meet during the workshop hours at the University of Queensland and will arrange to meet outside campus hours at a prearranged venue as required. 
 
 ####**Communication Tools and File Naming Convention**
+
+Facebook messenger is the choice of use for our team’s communication. Files will be stored and shared on Google Drive. The file naming convention will be: [Team Nearby]xxxxx.
+
 Facebook and Slack will be used as our social platforms. Facebook was chosen because it everyone is already on it and it is very much integrated into our lives, it is an multi-platform and messages are stored on their servers so it is easy to retrieve information no matter what devices are used. Slack is an effective team communication platform with is widely used by UQ students, it integrates with other services like Trello, Github. A useful feature it has is also the ability to have group communication and one to one communication in the same space.  
 
 ###Plan
@@ -174,6 +178,7 @@ Event Organizer can upload an event | Event Organizer can input a detailed infor
 ###Tags
 
 ####**Social and Mobile Computing**
+
 `#awareness`
 `#local`
 `#social`
@@ -181,6 +186,7 @@ Event Organizer can upload an event | Event Organizer can input a detailed infor
 `#mobile`
 
 ####**News and Journalism**
+
 `#localnews`
 `#eventjournalism`
 
