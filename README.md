@@ -32,6 +32,8 @@ These are the role of each team member in developing the project prototype:
   * Muhammad Fauzan Aidi: Front end and content
   * Henry Zhou          : Design and content
 
+####**Decision Making**
+
 Decision, ideas and suggestions will be discussed together as a team before a common consensus is made. Voting may be used when necessary. 
 
 ####**Handling Poor Performance**
