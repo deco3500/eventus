@@ -56,7 +56,7 @@ First the team needs to have a strong understanding of the proposed idea, resear
 4. Day 4: Build a rough prototype. The focus here is the usability not design.
 5. Day 5: Show the prototype to the users not from our group (probably from tutors or other students) and receive feedback from the users.
 
-The project development should be divided into several cycles:
+####**The project development should be divided into several cycles. This product will be developed by using Scrum framework.  This is the project iteration plan**
 
 1. Cycle 0: Project preparation and planning. In this stage, we will prepare everything to make this application. The activities are making the mockups of the application, preparing the development environment, designing the database, dividing the epics into several stories and later divide the stories into tasks, making testing criteria and making the API blueprint.
 2. Cycle 1: Start developing and testing the major parts of the application. However before the start of Cycle 1, we need to talk to each other and try to assign each task to each member. The deliverables in this cycle is the application but limited to major features only.
