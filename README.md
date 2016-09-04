@@ -38,13 +38,13 @@ We will talk to the related member and find out the obstacles that the member ex
 
 For conflict resolution, we will discuss the problem with the involved team members and find the solution together. If the problem cannot be solved by us, we will ask the tutors or lecturer for the solution regarding the problem.
 
-#####Communications
+####Communications
 
 The Team will meet during the workshop hours at the University of Queensland and will arrange to meet outside school hours at a prearranged venue as required. Facebook messenger is the choice of use for our team’s communication. Files will be stored and shared on Google Drive. The file naming convention will be: [Team Nearby]xxxxx.
 
 Facebook and Slack will be used as our social platforms. Facebook was chosen because it everyone is already on it and it is very much integrated into our lives, it is an multi-platform and messages are stored on their servers so it is easy to retrieve information no matter what devices are used. Slack is an effective team communication platform with is widely used by UQ students, it integrates with other services like Trello, Github. A useful feature it has is also the ability to have group communication and one to one communication in the same space.  
 
-#####Plan
+####Plan
 
 The project plan would be carried out in numerous stages, by planning and coordinating allocated tasks between team members, steady and consistent contribution, the team will fall nothing short of success.
 
