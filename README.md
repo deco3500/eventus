@@ -25,8 +25,8 @@
    * [5.5 Resources] (https://github.com/deco3500/Team-Nearby#resources)
    * [5.6 Minimum Viable Product] (https://github.com/deco3500/Team-Nearby#minimum-viable-product)
 * [6. Tags] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#tags)
-   * [6.1] (https://github.com/deco3500/Team-Nearby#social-and-mobile-computing)
-   * [6.2] (https://github.com/deco3500/Team-Nearby#news-and-journalism)
+   * [6.1 Social and Mobile Computing] (https://github.com/deco3500/Team-Nearby#social-and-mobile-computing)
+   * [6.2 News and Journalism] (https://github.com/deco3500/Team-Nearby#news-and-journalism)
 
 
 ###Introduction
