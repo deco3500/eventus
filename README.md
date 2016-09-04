@@ -1,7 +1,7 @@
 #Team Nearby
 
 ##Table of Content
-* [1. Introduction] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#introduction)
+* [1. Introduction] (#introduction)
    * [1.1 Aim] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#aim)
    * [1.2 Dilemma and Case] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#dilemma-and-case)
 * [2. Concept] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#concept)
