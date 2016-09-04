@@ -12,9 +12,15 @@ We found that one of the biggest dilemma in local event is some people might sti
 
 Eventus is a mobile application that allow users to retrieve information about current and upcoming local events within user’s location such as performing arts, festivals, concerts and sport events. Eventus will automatically scan nearby events by using geolocation technology from user’s device. 
 
+####**Target Audience**
+
 Eventus is intended for those who seek entertainments and events within the user’s specific location, commonly for tourists, travelers, and people who want to get information regarding nearby events. Eventus is also not concentrated in a particular group of audience, because it contains list of categories made for everyone's interests.
 
+####**Source of Events**
+
 The event can be posted by everyone with several requirements to verify the authenticity of the event. There are two roles for sharing event which are event organizer and ordinary users. Event organizer should put the project officer’s contact details or website or Facebook business page, then the platform will verify the provided information by sharing one time code the project’s officer email or phone number. The team plans to gather the local events data from trusted data sources, such as Eventbrite or the city council’s database. However, if there are two events published even though they are the same event, the application can make sure only one event is published. This can be achieved by comparing the location, date, time and name of the event with the stored event.
+
+####**Technical Concepts and Features**
 
 The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. User can see the detailed information regarding the event. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code through this application. In addition, this application can shows live tweets or discussion from Twitter.
 
@@ -24,13 +30,14 @@ This application focuses on the user’s current location while other applicatio
 
 ###Team
 
-Our team consists of four people. The leader of the team and the project is Joseph Teo. William Henry will in charge of the logistics, such as equipment, meetings, transport, etc. 
+**Our team consists of four people. The below table describes the role of each member and the description of each member**
 
-These are the role of each team member in developing the project prototype:
-  * Joseph Teo			    : Front end, content, design and presentation
-  * William Henry       : Back end and front end
-  * Muhammad Fauzan Aidi: Front end and content
-  * Henry Zhou          : Design and content
+Team member | Role | Member description
+---------------------------------------
+Joseph Teo | Front end, content, design and presentation | Team Leader
+William Henry | Back end and front end | In charge of logistics
+Muhammad Fauzan Aidi | Front end and content | Team member
+Henry Zhou | Design and content | Team member
 
 ####**Decision Making**
 
@@ -39,6 +46,8 @@ Decision, ideas and suggestions will be discussed together as a team before a co
 ####**Handling Poor Performance**
 
 We will talk to the related member and find out the obstacles that the member experience with. After finding the obstacles, we will find the solution together. 
+
+####**Conflicts Resolution**
 
 For conflict resolution, we will discuss the problem with the involved team members and find the solution together. If the problem cannot be solved by us, we will ask the tutors or lecturer for the solution regarding the problem.
 
