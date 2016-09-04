@@ -2,6 +2,10 @@
 
 #Table of Content
 1. [Introduction] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#intorduction)
+2. [Concept] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#concept)
+3. [Team] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#team)
+4. [Communication] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#communication)
+5. [Tags] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#tags)
 
 
 ###Intorduction
