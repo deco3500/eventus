@@ -2,9 +2,13 @@
 
 #Table of Content
 1. [Introduction] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#introduction)
- 1.1 [Aim] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#aim)
- 1.2 [Dilemma and Case] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#communications)
+   1.1 [Aim] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#aim)
+   1.2 [Dilemma and Case] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#dilemma-and-case)
 2. [Concept] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#concept)
+   2.1 [Target Audience] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#target-audience)
+   2.2 [Source of Events] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#source-of-events)
+   2.3 [Technical Concepts and Features] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#technical-concepts-and-features)
+   2.4 Different Offerings with Other Competitors (https://github.com/deco3500/Team-Nearby/blob/master/README.md#different-offerings-with-other-competitors)
 3. [Team] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#team)
 4. [Communication] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#communications)
 5. [Tags] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#tags)
