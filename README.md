@@ -87,19 +87,43 @@ The project development should be divided into several cycles. This product will
 2. Sprint 1: Start developing and testing the major parts of the application. However before the start of Cycle 1, we need to talk to each other and try to assign each task to each member. The deliverables in this cycle is the application but limited to major features only.
 3. Sprint 2: Start developing and testing the minor parts of the application and refining the major parts based on the received critiques. This is the last cycle for this project development. The deliverables in this cycle is the complete application.
 
-####**Resources**
-
-By using the resources provided to us with current technology, knowledge and research, the team will be able to carry out important tasks for Eventus to be developed. We need a mobile developer to develop this application with a knowledge of relational database, server side development and client side development. We are likely going to develop this application by using Ionic Framework not native mobile application. We also need a UX skill for designing an application that is intuitive to be used by anyone. 
-
-Ultimately, innovation is not a one step process and it always needs feedback. Feedback is going to be our guidance for evolution on Eventus. With the project eventually reaching the stages of publishing, there will be on field tests that need to be performed, at that time, resources supporting the content will be required in order to enact a real world scenario for user testing.
-
 ####**Milestones**
 
 * We will try to finish the entire cycle / sprint 0 by week 8. In this week, we will demonstrate about the idea and feature of the application, database design, prototype of the application, API blueprint and user stories. We will use the demo session on workshop 2 to gain insightful feedback.
 * We will end our sprint 1 by week 11. However on week 10, we will show our progress to the tutors, lecturer and other students to get feedback for the major part of the running product.
 * We will end our sprint 1 by week 14. However on week 12, we will show our progress to the tutors, lecturer and other students to get feedback for the non-finalised running product.
 
-The below table is discussing about the features that will be implemented for the application:
+####**Phases and Key Activities (including key dates)**
+
+**We define the phases as sprints or cycles**
+
+Phase | Key Task | Week
+------|----------------|-----
+1 | Idea refinement | 6-7
+1 | Requirement gathering | 6-7
+1 | Designing | 7
+1 | Prototype building | 7-8
+1 | Designing product backlog | 7
+1 | Database designing | 7
+1 | Critique | 8
+1 | Sprint review | 8
+2 | Sprint retrospective | 9
+2 | Product building | 9-11
+2 | Critique | 10
+2 | Sprint review | 11
+3 | Sprint retrospective | 12
+3 | Critique | 12
+3 | Product building | 12-14
+3 | Sprint Review | 14
+3 | Prototype delivery | 14
+
+####**Resources**
+
+By using the resources provided to us with current technology, knowledge and research, the team will be able to carry out important tasks for Eventus to be developed. We need a mobile developer to develop this application with a knowledge of relational database, server side development and client side development. We are likely going to develop this application by using Ionic Framework not native mobile application. We also need a UX skill for designing an application that is intuitive to be used by anyone. 
+
+Ultimately, innovation is not a one step process and it always needs feedback. Feedback is going to be our guidance for evolution on Eventus. With the project eventually reaching the stages of publishing, there will be on field tests that need to be performed, at that time, resources supporting the content will be required in order to enact a real world scenario for user testing.
+
+The below table is discussing about the features that will be delivered in this project:
 
 ####**Minimum Viable Product**
 
