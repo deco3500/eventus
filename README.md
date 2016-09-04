@@ -33,7 +33,7 @@ This application focuses on the user’s current location while other applicatio
 **Our team consists of four people. The below table describes the role of each member and the description of each member**
 
 Team member | Role | Member description
----------------------------------------
+------------|------|-------------------
 Joseph Teo | Front end, content, design and presentation | Team Leader
 William Henry | Back end and front end | In charge of logistics
 Muhammad Fauzan Aidi | Front end and content | Team member
