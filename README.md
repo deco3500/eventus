@@ -25,7 +25,7 @@ The event can be posted by everyone with several requirements to verify the auth
 
 ####**Technical Concepts and Features**
 
-The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. User can see the detailed information regarding the event. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code through this application. In addition, this application can shows live tweets or discussion from Twitter.
+The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. User can see the detailed information regarding the event. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code through this application. 
 
 ####**Different Offerings with Other Competitors**
 
