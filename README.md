@@ -8,7 +8,7 @@
 5. [Tags] (https://github.com/deco3500/Team-Nearby/blob/master/README.md#tags)
 
 
-###Intorduction
+###Introduction
 
 ####**Aim**
 
