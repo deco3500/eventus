@@ -1,14 +1,14 @@
 #Team Nearby
 ##For the Nearby project idea.
 
-####Intorduction
+###Intorduction
 
 Our team wants to create an application to enable users to know what local events occur near their area and receive any update regarding that event. 
 
 We found that one of the biggest dilemma in local event is some people might still have difficulties in gaining the information and updates, for example if a traveller from other country or city visits Brisbane and he wants to know what musical events to visit in the city tonight, the traveller can search for the information in Facebook or Google. However, some events in a city or small area are not covered in Facebook or Google. In the above example, the traveller decides to go back to the hotel while a bar near that hotel held a jazz night. Our project goal is to overcome that problem.
 
 
-####Concept
+###Concept
 
 Eventus is a mobile application that allow users to retrieve information about current and upcoming local events within user’s location such as performing arts, festivals, concerts and sport events. Eventus will automatically scan nearby events by using geolocation technology from user’s device. 
 
@@ -20,7 +20,7 @@ The application will utilize geofencing technique, so if the user is near to the
 
 This application focuses on the user’s current location while other applications, such as Eventbrite, focus on being an event catalog in a city of country. User can provide rate to each event that the user attends and they can see the rating of the event.
 
-####Team
+###Team
 
 Our team consists of four people. The leader of the team and the project is Joseph Teo. William Henry will in charge of the logistics, such as equipment, meetings, transport, etc. 
 
@@ -44,7 +44,7 @@ The Team will meet during the workshop hours at the University of Queensland and
 
 Facebook and Slack will be used as our social platforms. Facebook was chosen because it everyone is already on it and it is very much integrated into our lives, it is an multi-platform and messages are stored on their servers so it is easy to retrieve information no matter what devices are used. Slack is an effective team communication platform with is widely used by UQ students, it integrates with other services like Trello, Github. A useful feature it has is also the ability to have group communication and one to one communication in the same space.  
 
-####Plan
+###Plan
 
 The project plan would be carried out in numerous stages, by planning and coordinating allocated tasks between team members, steady and consistent contribution, the team will fall nothing short of success.
 
@@ -88,7 +88,7 @@ Event Organizer can upload an event | Event Organizer can input a detailed infor
  | | Events can be gathered from through party APIs, such as Eventbrite API or pulled from Brisbane City Council’s database.
 
 
-####Tags
+###Tags
 
 ######**Social and Mobile Computing**
 `#awareness`
