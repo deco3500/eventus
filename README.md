@@ -109,18 +109,18 @@ Phase | Key Task | Week
 1 | Designing product backlog | 7
 1 | Database designing | 7
 1 | Critique | 8
-1 | Sprint review | 8
-1 | Sprint retrospective | 9
+1 | Sprint 0 review | 8
+1 | Sprint 0 retrospective | 9
 2 | Sprint 1 planning | 9
 2 | Product building | 9-11
 2 | Critique | 10
-2 | Sprint review | 11
-2 | Sprint retrospective | 11
-3 | Sprint Planning | 12
+2 | Sprint 1 review | 11
+2 | Sprint 1 retrospective | 11
+3 | Sprint 2 Planning | 12
 3 | Critique | 12
 3 | Product building | 12-14
-3 | Sprint Review | 14
-3 | Prototype delivery | 14
+3 | Sprint 2 Review | 14
+3 | Product delivery | 14
 
 ####**Resources**
 
