@@ -67,9 +67,11 @@ This application focuses on the user’s current location while other applicatio
 Team member | Role | Member description
 ------------|------|-------------------
 Joseph Teo | Front end, content, design and presentation | Team Leader
-William Henry | Back end and front end | In charge of logistics
+William Henry | Back end and front end | In charge of logistics*
 Muhammad Fauzan Aidi | Front end and content | Team member
 Henry Zhou | Design and content | Team member
+
+***) logistics in this case is managing a place for a meeting outside workshop hours**
 
 ####**Decision Making**
 
