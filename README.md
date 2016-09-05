@@ -101,6 +101,8 @@ Facebook messenger is the choice of use for our team’s communication. Files wi
 
 Facebook and Slack will be used as our social platforms. Facebook was chosen because it everyone is already on it and it is very much integrated into our lives, it is an multi-platform and messages are stored on their servers so it is easy to retrieve information no matter what devices are used. Slack is an effective team communication platform with is widely used by UQ students, it integrates with other services like Trello, Github. A useful feature it has is also the ability to have group communication and one to one communication in the same space.  
 
+Github also will be used by our team as a version control system and ZenHub for managing and tracking issues on Github.
+
 ###Plan
 
 The project plan would be carried out in numerous stages, by planning and coordinating allocated tasks between team members, steady and consistent contribution, the team will fall nothing short of success.
