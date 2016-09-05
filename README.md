@@ -71,7 +71,7 @@ William Henry | Back end and front end | In charge of logistics*
 Muhammad Fauzan Aidi | Front end and content | Team member
 Henry Zhou | Design and content | Team member
 
-**) logistics in this case is responsible for managing a place for a meeting outside workshop hours*
+** - logistics in this case is responsible for managing a place for a meeting outside workshop hours*
 
 ####**Decision Making**
 
