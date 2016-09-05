@@ -37,7 +37,7 @@ Our team wants to create an application to enable users to know what local event
 
 ####**Dilemma and Case**
 
-We found that one of the biggest dilemma in local event is some people might still have difficulties in gaining the information and updates, for example if a traveller from other country or city visits Brisbane and he wants to know what musical events to visit in the city tonight, the traveller can search for the information in Facebook or Google. However, some events in a city or small area are not covered in Facebook or Google. In the above example, the traveller decides to go back to the hotel while a bar near that hotel held a jazz night. Our project goal is to overcome that problem.
+We found that one of the biggest dilemma in local event is some people might still have difficulties in gaining the information and updates, for example if a traveller from other country or city visits Brisbane and he wants to know what musical events to visit in the city tonight, the traveller can search for the information on Facebook or Google. However, some events in a city or small area are not covered on Facebook or Google. In the above example, the traveller decides to go back to the hotel while a bar near that hotel held a jazz night. Our project goal is to overcome that problem.
 
 
 ###Concept
@@ -86,8 +86,8 @@ For conflict resolution, we will discuss the problem with the involved team memb
 ####**Team Communication**
 
 * Each of member will use Facebook Messanger to communicate with each others. 
-* If a member couldn't come to the meeting, that person should tell the others in Facebook Messanger.
-* If a member couldn't come on time to the meeting, that person should tell the others in Facebook Messanger.
+* If a member couldn't come to the meeting, that person should tell the others on Facebook Messanger.
+* If a member couldn't come on time to the meeting, that person should tell the others on Facebook Messanger.
 
 ###Communications
 
