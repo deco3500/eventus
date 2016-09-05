@@ -33,32 +33,32 @@
 
 ####**Aim**
 
-Our team wants to create an application to enable users to know what local events occur near their area and receive any update regarding the event. 
+To create an application which broadcasts current/future nearby events to users, as well as keeping users educated with the events they’re interested in. 
 
 ####**Dilemma and Case**
 
-We found that one of the biggest dilemma in local event is some people might still have difficulties in gaining the information and updates, for example if a traveller from other country or city visits Brisbane and he wants to know what musical events to visit in the city tonight, the traveller can search for the information on Facebook or Google. However, some events in a city or small area are not covered on Facebook or Google. In the above example, the traveller decides to go back to the hotel while a bar near that hotel held a jazz night. Our project goal is to overcome that problem.
+One of the biggest dilemmas affecting the general public is finding activities to participate in when you have time off. For example, travellers are never faced with a back to back schedule when they’re travelling so when they have free time, they may want to make spontaneous decisions to go participate in an event. However, in a foreign city, travellers may feel lost or stumped with where to start looking. This dilemma also apply for locals who feel like they’ve exhausted their city’s activities, not knowing that they’ve only seen the tip of the iceberg. Our team has came up with an idea to combat the barrier that these individuals face. 
 
 
 ###Concept
 
-Eventus is a mobile application that allow users to retrieve information about current and upcoming local events within user’s location such as performing arts, festivals, concerts and sport events. Eventus will automatically scan nearby events by using geolocation technology from user’s device. 
+Eventus is a mobile application that allow users to retrieve information about current and upcoming nearby events around the user’s location. The events that are on offer cover genres such as performing arts, festivals, concerts and sporting events. By using the GPS function that’s available on the user’s smart-device, Eventus will automatically scan for nearby events to present to the user. 
 
 ####**Target Audience**
 
-Eventus is intended for those who seek entertainments and events within the user’s specific location, commonly for tourists, travelers, and people who want to get information regarding nearby events. Eventus is also not concentrated in a particular group of audience, because it contains list of categories made for everyone's interests.
+Eventus targets those who seek entertainment and activities to participate in around the user’s specific location. Some examples are tourists, travelers, and people who want to get information regarding nearby events. The app contains categories that caters to everyone's interests, no matter age, gender, culture, religion or etc.
 
 ####**Source of Events**
 
-The event can be posted by event organizers with several requirements to verify the authenticity of the event. Event organizer should put the project officer’s contact details or website or Facebook business page, then the platform will verify the provided information by sharing one time code the project’s officer email or phone number. The team plans to gather the local events data from trusted data sources, such as Eventbrite or the city council’s database. 
+Special events can be posted by event organisers, these organisers must be authenticated by passing several requirements before listing an event. The process requires Event organisers to provide the project officer’s contact details, with a link to their offered event. Once approved, the platform will provide a one time code to the project officer email or phone number, which will post the event the organiser uploaded prior. Apart from that, the app will gather data from trusted local sources, such as Eventbrite or the city council’s database.
 
 ####**Technical Concepts and Features**
 
-The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. User can see the detailed information regarding the event. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code or other promotions through this application. 
+The application will utilize geofencing technique, so if the user is near to the posted event’s location, the application will notify the user. The user can bookmark the event or even share it to the users through social networking applications, such as Facebook or Twitter. Users can see the detailed information and ratings regarding the event within the app. In addition, user can follow the updates of the bookmarked events. Updates will be sent real time to the users. Event organizer also can share promotional code through this application.  
 
 ####**Different Offerings with Other Competitors**
 
-This application focuses on the user’s current location while other applications, such as Eventbrite, focus on being an event catalog in a city of country. User can provide rate to each event that the user attends and they can see the rating of the event.
+This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
 
 ###Team
 
