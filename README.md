@@ -8,6 +8,7 @@
    * [3.1 Refined Target Audience] (#refined-target-audience)
    * [3.2 Source of Events] (#source-of-events)
    * [3.3 Technical Concepts and Features] (#technical-concepts-and-features)
+   * [3.4 Different Offerings with Other Competitors] (#different-offerings-with-other-competitors)
 * [4. Instruction to Use The Prototype] (#instruction-to-use-the-prototype)
 * [5. Tags] (#tags)
    * [5.1 Social and Mobile Computing] (#social-and-mobile-computing)
@@ -44,7 +45,7 @@ The application will utilize geofencing technique, so if the user is near to the
 
 ####**Different Offerings with Other Competitors**
 
-This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute musical events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
+This application focuses on providing information of nearby musical events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute musical events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues. Another major features of the application that makes it different with others are live streamming feature of an event and ability to see friends who will come to the nearby musical events.
 
 ###Promotional Material
 
