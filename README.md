@@ -4,17 +4,12 @@
 * [1. Summary] (#summary)
 * [2. Promotional Material] (#promotional-material)
    * [2.1 Promotional Video] (#promotional-video)
-* [3. Team] (#team)
-   * [3.1 Decision Making] (#decision-making)
-   * [3.2 Handling Poor Performance] (#handling-poor-performance)
-   * [3.2 Conflicts Resolution] (#conflicts-resolution)
-   * [3.3 Team Communication] (#team-communication)
 * [3. Refined Target Audience] (#refined-target-audience)
 * [4. Instruction to Use The Prototype] (#instruction-to-use-the-prototype)
-* [6. Tags] (#tags)
-   * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
-   * [6.2 News and Journalism] (#news-and-journalism)
-* [7. Final Documentation Detail] (#final-documentation)
+* [5. Tags] (#tags)
+   * [5.1 Social and Mobile Computing] (#social-and-mobile-computing)
+   * [5.2 News and Journalism] (#news-and-journalism)
+* [6. Final Documentation Detail] (#final-documentation)
 
 
 ###Summary
