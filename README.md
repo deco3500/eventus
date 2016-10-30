@@ -13,7 +13,7 @@
 * [5. Tags] (#tags)
    * [5.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [5.2 News and Journalism] (#news-and-journalism)
-* [6. Final Documentation Detail] (#final-documentation)
+* [6. Work Process and Marketing Plan] (#work-process-and-marketing-plan)
 
 
 ###Summary
@@ -83,9 +83,10 @@ https://www.youtube.com/watch?v=IODSAp4fWLU
 `#localnews`
 `#eventjournalism`
 
-### Final Documentation
+### Work Process and Marketing Material
 
-The detailed final documentation contains the process of making the prototype, tasks done by each member and summary of the report.
+The part of the documentation contains the process of making the prototype and the detailed plan to market the end product.
+
 ####**https://docs.google.com/document/d/1oqJYF2VFmNfy4GQ8i2XTALS47cpGLM5DdjLTVunIti8/edit?usp=sharing**
 
 
