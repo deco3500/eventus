@@ -5,7 +5,7 @@
    * [1.1 Aim] (#aim)
    * [1.2 Dilemma and Case] (#dilemma-and-case)
 * [2. Promotional Material] (#promotional-material)
-   * [2.1 Promotional Material] (#promotional-material)
+   * [2.1 Promotional Video] (#promotional-video)
 * [3. Team] (#team)
    * [3.1 Decision Making] (#decision-making)
    * [3.2 Handling Poor Performance] (#handling-poor-performance)
