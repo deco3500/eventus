@@ -4,11 +4,8 @@
 * [1. Introduction] (#introduction)
    * [1.1 Aim] (#aim)
    * [1.2 Dilemma and Case] (#dilemma-and-case)
-* [2. Concept] (#concept)
-   * [2.1 Target Audience] (#target-audience)
-   * [2.2 Source of Events] (#source-of-events)
-   * [2.3 Technical Concepts and Features] (#technical-concepts-and-features)
-   * [2.4 Different Offerings with Other Competitors] (#different-offerings-with-other-competitors)
+* [2. Promotional Material] (#promotional-material)
+   * [2.1 Promotional Material] (#promotional-material)
 * [3. Team] (#team)
    * [3.1 Decision Making] (#decision-making)
    * [3.2 Handling Poor Performance] (#handling-poor-performance)
@@ -51,6 +48,12 @@ The application will utilize geofencing technique, so if the user is near to the
 ####**Different Offerings with Other Competitors**
 
 This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
+
+###Promotional Material
+
+####**Promotional Video**
+https://www.youtube.com/watch?v=IODSAp4fWLU
+
 
 ###Instruction to Use The prototype
 
