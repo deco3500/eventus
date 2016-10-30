@@ -15,8 +15,6 @@
    * [3.2 Conflicts Resolution] (#conflicts-resolution)
    * [3.3 Team Communication] (#team-communication)
 * [4. Instruction to Use The prototype] (#instruction-to-use-the-prototype)
-   * [4.2 Mobile Apps] (#mobile-apps)
-   * [4.2 Admin Page] (#admin-page)
 * [6. Tags] (#tags)
    * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [6.2 News and Journalism] (#news-and-journalism)
