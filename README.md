@@ -4,7 +4,10 @@
 * [1. Summary] (#summary)
 * [2. Promotional Material] (#promotional-material)
    * [2.1 Promotional Video] (#promotional-video)
-* [3. Refined Target Audience] (#refined-target-audience)
+* [3. Concept] (#concept)
+   * [3.1 Refined Target Audience] (#refined-target-audience)
+   * [3.2 Source of Events] (#source-of-events)
+   * [3.3 Technical Concepts and Features] (#technical-concepts-and-features)
 * [4. Instruction to Use The Prototype] (#instruction-to-use-the-prototype)
 * [5. Tags] (#tags)
    * [5.1 Social and Mobile Computing] (#social-and-mobile-computing)
@@ -22,15 +25,18 @@ Ideally, the app would retrieve event information from local repositories that a
 
 ###Concept
 
-Eventus is a mobile application that allow users to retrieve information about current and upcoming nearby events around the user’s location. The events that are on offer cover genres such as performing arts, festivals, concerts and sporting events. By using the GPS function that’s available on the user’s smart-device, Eventus will automatically scan for nearby events to present to the user. 
+Eventus is a mobile application that allow users to retrieve information about current and upcoming nearby musical events around the user’s location. The events that are on offer cover genres such as performing arts, festivals, concerts and sporting events. By using the GPS function that’s available on the user’s smart-device, Eventus will automatically scan for nearby events to present to the user. 
 
-####**Target Audience**
+####**Refined Target Audience**
 
-Eventus targets those who seek entertainment and activities to participate in around the user’s specific location. Some examples are tourists, travelers, and people who want to get information regarding nearby events. The app contains categories that caters to everyone's interests, no matter age, gender, culture, religion or etc.
+After receiving some positive feedback on our previous ideas, we have decided to narrow down the genres Eventus offers. We have decided on the musical genre, to start out, we are targeting bands/djs/music events that targets anyone above the age of 18. As an example of how we obtain our information, I have chosen to do a small demonstration over the events available over Brisbane (links above). The purpose of Eventus is to simplify processes, minimise searching and maximising efficiency for users. This means the information that will be available in the app doesn’t necessarily have to be disclosed information that users can’t find on their own, in fact, the information that’s readily available for users are publicly announced information off the council website. With all that said, local clubs or pubs with impromptu performances could do a last minute announcement over the app allowing them to promote their event, an authorised representative would be required to post an announcement. 
+
+
+By refining different genre in events, the date of the event and the cost of the event, this will break down the cluttered information given on the source websites where we would retrieve information from and regurgitate it to the public based on their locational settings. By developing a strong rapport and collaborating with individual local councils and individual local event broadcasters and bloggers, we intend to reach a system where information that are scheduled to be uploaded onto local council website will be provided to us before upload.
 
 ####**Source of Events**
 
-Special events can be posted by event organisers, these organisers must be authenticated by passing several requirements before listing an event. The process requires Event organisers to provide the project officer’s contact details, with a link to their offered event. Once approved, the platform will provide a one time code to the project officer email or phone number, which will post the event the organiser uploaded prior. Apart from that, the app will gather data from trusted local sources, such as Eventbrite or the city council’s database.
+Special musical events can be posted by event organisers, these organisers must be authenticated by passing several requirements before listing an event. The process requires Event organisers to provide the project officer’s contact details, with a link to their offered event. Once approved, the platform will provide a one time code to the project officer email or phone number, which will post the event the organiser uploaded prior. Apart from that, the app will gather data from trusted local sources, such as Eventbrite or the city council’s database.
 
 ####**Technical Concepts and Features**
 
@@ -38,15 +44,7 @@ The application will utilize geofencing technique, so if the user is near to the
 
 ####**Different Offerings with Other Competitors**
 
-This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
-
-###Refined Target Audience
-
-After receiving some positive feedback on our previous ideas, we have decided to narrow down the genres Eventus offers. We have decided on the musical genre, to start out, we are targeting bands/djs/music events that targets anyone above the age of 18. As an example of how we obtain our information, I have chosen to do a small demonstration over the events available over Brisbane (links above). The purpose of Eventus is to simplify processes, minimise searching and maximising efficiency for users. This means the information that will be available in the app doesn’t necessarily have to be disclosed information that users can’t find on their own, in fact, the information that’s readily available for users are publicly announced information off the council website. With all that said, local clubs or pubs with impromptu performances could do a last minute announcement over the app allowing them to promote their event, an authorised representative would be required to post an announcement. 
-
-
-By refining different genre in events, the date of the event and the cost of the event, this will break down the cluttered information given on the source websites where we would retrieve information from and regurgitate it to the public based on their locational settings. By developing a strong rapport and collaborating with individual local councils and individual local event broadcasters and bloggers, we intend to reach a system where information that are scheduled to be uploaded onto local council website will be provided to us before upload.
-
+This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute musical events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
 
 ###Promotional Material
 
