@@ -14,19 +14,13 @@
    * [3.2 Handling Poor Performance] (#handling-poor-performance)
    * [3.2 Conflicts Resolution] (#conflicts-resolution)
    * [3.3 Team Communication] (#team-communication)
-* [4. Communications] (#communications)
-   * [4.1 Team Meeting] (#team-meeting)
-   * [4.2 Communication Tools and File Naming Convention] (#communication-tools-and-file-naming-convention)
-* [5. Plan] (#plan)
-   * [5.1 Ideation Process] (#these-are-five-days-process-of-ideation-based-on-design-sprint-by-gv)
-   * [5.2 Iteration Plan] (#this-are-the-project-iteration-plan)
-   * [5.3 Milestones] (#milestones)
-   * [5.4 Phases and Key Activities] (#phases-and-key-activities-including-key-dates)
-   * [5.5 Resources] (#resources)
-   * [5.6 Minimum Viable Product] (#minimum-viable-product)
+* [4. Instruction to Use The prototype] (#instruction-to-use-the-prototype)
+   * [4.2 Mobile Apps] (#mobile-apps)
+   * [4.2 Admin Page] (#admin-page)
 * [6. Tags] (#tags)
    * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [6.2 News and Journalism] (#news-and-journalism)
+* [7. Final Documentation] (#final-documentation)
 
 
 ###Introduction
@@ -60,40 +54,9 @@ The application will utilize geofencing technique, so if the user is near to the
 
 This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
 
-###Team
+###Instruction to Use The prototype
 
-**Our team consists of four people. The below table describes the role of each member and the description of each member**
-
-Team member | Role | Member description
-------------|------|-------------------
-Joseph Teo | Front end, content, design and presentation | Team Leader
-William Henry | Back end and front end | In charge of logistics**
-Muhammad Fauzan Aidi | Front end and content | Team member
-Henry Zhou | Design and content | Team member
-
-***) logistics in this case is responsible for managing a place for a meeting outside workshop hours.*
-
-####**Decision Making**
-
-Decision, ideas and suggestions will be discussed together as a team before a common consensus is made. Voting may be used when necessary. 
-
-####**Handling Poor Performance**
-
-We will talk to the related member and find out the obstacles that the member experience with. After finding the obstacles, we will find the solution together. 
-
-####**Conflicts Resolution**
-
-For conflict resolution, we will discuss the problem with the involved team members and find the solution together. If the problem cannot be solved by us, we will ask the tutors or lecturer for the solution regarding the problem.
-
-####**Team Communication**
-
-* Each of member will use Facebook Messanger to communicate with each others. 
-* If a member couldn't come to the meeting, that person should tell the others on Facebook Messanger.
-* If a member couldn't come on time to the meeting, that person should tell the others on Facebook Messanger.
-
-###Intruction to Use The prototype
-
-* Mobile apps:
+* Mobile Apps:
   1. Pull the code from the github repository. 
   2. Install Node.JS in the local machine.
   3. Install the latest version of Cordova and Ionic command-line tools
