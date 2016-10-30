@@ -15,7 +15,7 @@
 * [6. Tags] (#tags)
    * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [6.2 News and Journalism] (#news-and-journalism)
-* [7. Final Documentation] (#final-documentation)
+* [7. Final Documentation Detail] (#final-documentation)
 
 
 ###Introduction
@@ -62,11 +62,11 @@ https://www.youtube.com/watch?v=IODSAp4fWLU
   2. Install Node.JS in the local machine.
   3. Install the latest version of Cordova and Ionic command-line tools
      by doing `npm install -g cordova ionic`
-  4. go to the root project folder and type `ionic serve`
+  4. go to the root project folder of EventusPrototype and type `ionic serve`
 
 * Admin Page:
   1. Pull the source code from this repository 
-  2. Try to open one of the file from the browser
+  2. Try to open one of the file (in admin-page folder) from the browser
 
 
 
@@ -87,6 +87,7 @@ https://www.youtube.com/watch?v=IODSAp4fWLU
 
 ### Final Documentation
 
+The detailed final documentation contains the process of making the prototype, tasks done by each member and summary of the report.
 ####**https://docs.google.com/document/d/1oqJYF2VFmNfy4GQ8i2XTALS47cpGLM5DdjLTVunIti8/edit?usp=sharing**
 
 
