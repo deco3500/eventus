@@ -1,0 +1,34 @@
+
+<ion-view view-title="{{name}}">
+    
+    <ion-content>
+       
+      
+        
+        <div class="im-wrapper">
+            <h4 class="no-border no-padding-bottom">Comments</h4>
+           
+            
+        </div>
+        <ion-list class="animate-ripple">
+            <div ng-repeat="comment in comments">
+                <ion-item nav-clear menu-close class="item-icon-right item-avatar">
+                    <img src="img/material3.jpg"/>
+                    <div class="row">
+                        <h2>{{comment[id+$index]}}</h2>
+                    </div>
+                    <div class="row">
+                        <small class="grey">5 minutes ago by anonymous</small>
+                    </div>
+    <!--                <br />-->
+    <!--                <p>ionicMaterialMotion.blinds();</p>-->
+    <!--                <i class="icon ion-chatbubble muted"></i>-->
+                </ion-item>
+            </div>
+        </ion-list>
+
+        <br />
+        <br />
+        <br />
+    </ion-content>
+</ion-view>

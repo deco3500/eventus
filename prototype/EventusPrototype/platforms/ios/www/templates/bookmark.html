@@ -1,0 +1,82 @@
+
+<ion-view view-title="Bookmark">
+    <ion-content class="im-wrapper">
+            <div ng-repeat="event in events">
+                <a ui-sref="app.detail({id:event.id})" class="card-text">
+                    <div class="list card stable-bg" >
+
+                        <div class="item item-image">
+                            <img ng-src="{{event.poster}}" class="card-image">
+                        </div>
+
+                        <div class="item item-body">
+                            <div class="row lefter">
+                                <div class="col lefter"> 
+                                    <h2 class="title-event"><strong>{{event.name}}</strong></h2>
+                                    <p class="orange">{{event.venue}}</p>
+                                    <p class="grey">{{event.date}}</p>
+                                </div>
+                                <div class="col {{event.grade}}"> 
+                                    <div class="right">
+                                        <span class="large-rate ">{{event.ratings}}</span>
+                                        <span class="small-rate ">/5</span>  
+                                    </div>     
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="item tabs tabs-secondary tabs-icon-left">
+                            <a class="tab-item {{event.bookmarked}}" ng-click="bookmarked($index,event.id)" data-ink-color="#336699" data-ink-opacity="0.5">
+                                <i class="icon ion-bookmark"></i> Bookmark
+                            </a>
+                            <a class="tab-item" data-ink-color="#336699" data-ink-opacity="0.5">
+                                <i class="icon ion-share"></i> Share
+                            </a>
+                        </div>
+                    </div>
+                </a>
+            </div>
+<!--
+        Ionic extensions get materialized, with no additional code needed. View <a href="http://ionicframework.com/docs/api/" class="link" target="_blank">Ionic's Extensions API</a> for implementation details.<br /><br />
+        <button class="button button-full" ng-click="loading()">Loading</button>
+        <div class="code-wrapper">
+            <a class="toggle">Material Loading Template</a>
+            <div class="code">
+                $ionicLoading.show({
+                template: <strong class="balanced-900 bold balanced-100-bg">'&lt;div class="loader"&gt;&lt;svg class="circular"&gt;&lt;circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/&gt;&lt;/svg&gt;&lt;/div&gt;'</strong>
+                });
+            </div>
+        </div>
+        <button class="button button-full" ng-click="showPopup()">Pop-Up</button>
+        <div class="code-wrapper">
+            <a class="toggle">To Add Ink</a>
+            <div class="code">
+                var alertPopup = $ionicPopup.alert({
+                title: 'You are now my subscribed to Cat Facts',
+                template: 'You will meow receive fun daily facts about CATS!'
+                });
+                <strong class="balanced-900 bold balanced-100-bg">
+                    // to activate ink on modal
+                    $timeout(function() {
+                    ionicMaterialInk.displayEffect();
+                    }, 0);
+                </strong>
+            </div>
+        </div>
+        <button class="button button-full" ng-click="actionSheet()">Action Sheet</button>
+        <button class="button button-full" ng-click="openModal()">Modal</button>
+        <button class="button button-full" ng-click="popover()">Popover</button>
+        <script id="my-modal.html" type="text/ng-template">
+            <ion-modal-view>
+                <ion-header-bar>
+                    <h1 class="title">My Modal Title</h1>
+                </ion-header-bar>
+                <ion-content class="padding">
+                    My Modal Contents
+                </ion-content>
+            </ion-modal-view>
+        </script>
+-->
+    </ion-content>
+</ion-view>
