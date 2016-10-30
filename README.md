@@ -12,7 +12,7 @@
    * [3.2 Conflicts Resolution] (#conflicts-resolution)
    * [3.3 Team Communication] (#team-communication)
 * [3. Refined Target Audience] (#refined-target-audience)
-* [4. Instruction to Use The prototype] (#instruction-to-use-the-prototype)
+* [4. Instruction to Use The Prototype] (#instruction-to-use-the-prototype)
 * [6. Tags] (#tags)
    * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [6.2 News and Journalism] (#news-and-journalism)
@@ -64,7 +64,7 @@ By refining different genre in events, the date of the event and the cost of the
 https://www.youtube.com/watch?v=IODSAp4fWLU
 
 
-###Instruction to Use The prototype
+###Instruction to Use The Prototype
 
 * Mobile Apps:
   1. Pull the code from the github repository. 
