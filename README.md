@@ -11,6 +11,7 @@
    * [3.2 Handling Poor Performance] (#handling-poor-performance)
    * [3.2 Conflicts Resolution] (#conflicts-resolution)
    * [3.3 Team Communication] (#team-communication)
+* [3. Refined Target Audience] (#refined-target-audience)
 * [4. Instruction to Use The prototype] (#instruction-to-use-the-prototype)
 * [6. Tags] (#tags)
    * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
@@ -48,6 +49,14 @@ The application will utilize geofencing technique, so if the user is near to the
 ####**Different Offerings with Other Competitors**
 
 This application focuses on providing information of nearby events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event or venue they’ve attended which also means, they can see the feedback on other events and venues.
+
+###Refined Target Audience
+
+After receiving some positive feedback on our previous ideas, we have decided to narrow down the genres Eventus offers. We have decided on the musical genre, to start out, we are targeting bands/djs/music events that targets anyone above the age of 18. As an example of how we obtain our information, I have chosen to do a small demonstration over the events available over Brisbane (links above). The purpose of Eventus is to simplify processes, minimise searching and maximising efficiency for users. This means the information that will be available in the app doesn’t necessarily have to be disclosed information that users can’t find on their own, in fact, the information that’s readily available for users are publicly announced information off the council website. With all that said, local clubs or pubs with impromptu performances could do a last minute announcement over the app allowing them to promote their event, an authorised representative would be required to post an announcement. 
+
+
+By refining different genre in events, the date of the event and the cost of the event, this will break down the cluttered information given on the source websites where we would retrieve information from and regurgitate it to the public based on their locational settings. By developing a strong rapport and collaborating with individual local councils and individual local event broadcasters and bloggers, we intend to reach a system where information that are scheduled to be uploaded onto local council website will be provided to us before upload.
+
 
 ###Promotional Material
 
