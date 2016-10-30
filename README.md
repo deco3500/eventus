@@ -1,9 +1,7 @@
 #Team Nearby
 
 ##Table of Content
-* [1. Introduction] (#introduction)
-   * [1.1 Aim] (#aim)
-   * [1.2 Dilemma and Case] (#dilemma-and-case)
+* [1. Summary] (#summary)
 * [2. Promotional Material] (#promotional-material)
    * [2.1 Promotional Video] (#promotional-video)
 * [3. Team] (#team)
@@ -19,15 +17,12 @@
 * [7. Final Documentation Detail] (#final-documentation)
 
 
-###Introduction
+###Summary
 
-####**Aim**
+Eventus is a mobile application which provides users with local event news, specifically event news in the music genre. The app is aimed more on the performance music events, for example, concerts, live bands and impromptu performances. Eventus is designed to break the barrier between users and events, the individual will no longer need to go out of their way to find information in local performances, instead they will have power of that knowledge at the touch of their finger. By using locational services on a user’s smart-device, Eventus will automatically retrieve information about current and upcoming nearby events based on the user’s location.
 
-To create an application which broadcasts current/future nearby events to users, as well as keeping users educated with the events they’re interested in. 
 
-####**Dilemma and Case**
-
-One of the biggest dilemmas affecting the general public is finding activities to participate in when you have time off. For example, travellers are never faced with a back to back schedule when they’re travelling so when they have free time, they may want to make spontaneous decisions to go participate in an event. However, in a foreign city, travellers may feel lost or stumped with where to start looking. This dilemma also apply for locals who feel like they’ve exhausted their city’s activities, not knowing that they’ve only seen the tip of the iceberg. Our team has came up with an idea to combat the barrier that these individuals face. 
+Ideally, the app would retrieve event information from local repositories that are already made available to the public or, they could be posted by admins. Security protocols are placed to test the authenticity of individuals applying for admin positions, this aims to provide a safe and reliable environment to users. After being authenticated individuals/organisers are granted admin privileges where they can post, edit and monitor events.  
 
 
 ###Concept
