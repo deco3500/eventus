@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=IODSAp4fWLU
 `#localnews`
 `#eventjournalism`
 
-### Work Process and Marketing Material
+### Work Process and Marketing Plan
 
 The part of the documentation contains the process of making the prototype and the detailed plan to market the end product.
 
