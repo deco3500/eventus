@@ -1,1 +1,0 @@
-var bookmark=new Object();
