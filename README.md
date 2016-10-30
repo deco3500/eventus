@@ -27,6 +27,8 @@
 * [6. Tags] (#tags)
    * [6.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [6.2 News and Journalism] (#news-and-journalism)
+* [7. Final Documentation] (#documentation)
+   * https://docs.google.com/document/d/1oqJYF2VFmNfy4GQ8i2XTALS47cpGLM5DdjLTVunIti8/edit?usp=sharing
 
 
 ###Introduction
