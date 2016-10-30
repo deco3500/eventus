@@ -91,19 +91,18 @@ For conflict resolution, we will discuss the problem with the involved team memb
 * If a member couldn't come to the meeting, that person should tell the others on Facebook Messanger.
 * If a member couldn't come on time to the meeting, that person should tell the others on Facebook Messanger.
 
-###Communications
+###Intruction to Use The prototype
 
-####**Team Meeting**
+* Mobile apps:
+  1. Pull the code from the github repository. 
+  2. Install Node.JS in the local machine.
+  3. Install the latest version of Cordova and Ionic command-line tools
+     by doing `npm install -g cordova ionic`
+  4. go to the root project folder and type `ionic serve`
 
-The Team will meet during the workshop hours at the University of Queensland and will arrange to meet outside campus hours at a prearranged venue as required. 
-
-####**Communication Tools and File Naming Convention**
-
-Facebook messenger is the choice of use for our team’s communication. Files will be stored and shared on Google Drive. The file naming convention will be: [Team Nearby]xxxxx.
-
-Facebook and Slack will be used as our social platforms. Facebook was chosen because it everyone is already on it and it is very much integrated into our lives, it is an multi-platform and messages are stored on their servers so it is easy to retrieve information no matter what devices are used. Slack is an effective team communication platform with is widely used by UQ students, it integrates with other services like Trello, Github. A useful feature it has is also the ability to have group communication and one to one communication in the same space.  
-
-Github also will be used by our team as a version control system and ZenHub for managing and tracking issues on Github.
+* Admin Page:
+  1. Pull the source code from this repository 
+  2. Try to open one of the file from the browser
 
 
 
