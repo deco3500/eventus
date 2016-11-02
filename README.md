@@ -4,14 +4,16 @@
 * [1. Summary] (#summary)
 * [2. Promotional Material] (#promotional-material)
    * [2.1 Promotional Video] (#promotional-video)
+   * [2.2 Website] (# website)
 * [3. Concept] (#concept)
    * [3.1 Refined Target Audience] (#refined-target-audience)
    * [3.2 Source of Events] (#source-of-events)
    * [3.3 Technical Concepts and Features] (#technical-concepts-and-features)
    * [3.4 Different Offerings with Other Competitors] (#different-offerings-with-other-competitors)
-* [4. Work Process] (#work-process)
-* [5. Instruction to Use The Prototype] (#instruction-to-use-the-prototype)
-* [6. Tags] (#tags)
+* [4. Marketing]
+* [5. Work Process] (#work-process)
+* [6. Instruction to Use The Prototype] (#instruction-to-use-the-prototype)
+* [7. Tags] (#tags)
    * [5.1 Social and Mobile Computing] (#social-and-mobile-computing)
    * [5.2 News and Journalism] (#news-and-journalism)
 
@@ -48,6 +50,20 @@ The application will utilize geofencing technique, so if the user is near to the
 
 This application focuses on providing information of nearby musical events using the user’s current location. Comparing to other applications, such as Eventbrite, Eventus caters to the user by giving suggestions and offers. The app also takes into consideration the travel a user may need to make to the event. By allowing authenticated Event organisers to upload events, this creates an exclusivity effect on some last minute musical events which differs us from Eventbrite. This component will make sure users aren’t going to miss out on any potential event they might be interested in. Users can provide feedback on every event they’ve attended which also means, they can see the feedback on other events. Another major features of the application that makes it different with others are live streamming feature of an event and ability to see friends who will come to the nearby musical events.
 
+### Marketing
+
+The marketing of the app will be over the following channels.
+
+Collaborating with event organizers and artistes: We will work with event organizers and artistes to encourage them to use our platform to broadcast their events. We will motive them to do so by stating the advantageous of doing so, mainly on the point that it would give their event more exposure especially catering for new visitors of the area who will be the ones that will be interested and have the time to attend these music events. We will also use their marketing channels, for example, placing our logo on their websites and posters to help our app to be more visible. 
+
+Website: We will create a landing page for our app. In the form of a landing page and utilizing search engine optimization (SEO) to push our page up on search results linked to music related events. The website will inform people of the opportunity to download our app from either Android or Apple app stores and use it to find out more information of events near them and enable them to have a peek at the performances if they currently on.
+
+Google Adwords: Another effective penetration mode of marketing the app is to use paid per click ads. Working in the same vein as organic clicks (website SEO), ads will be shown on user’s browsers when key words in their search criteria are matched to music event related stuff. 
+
+Video: Creating a Youtube channel and using it to show snippets of event performances  will be a great way of getting notice from the public. Placing introduction videos of our app in before the start of those snippets will highlight to viewers the usefulness of our app. 
+
+Traditional media: This would encompass placing advisements on television, radio and through print media (newspapers, mass flyers) to increase our app’s exposure to the public. 
+
 
 ### Work Process
 
@@ -59,6 +75,10 @@ The part of the documentation contains the process of making the prototype and p
 
 ####**Promotional Video**
 https://www.youtube.com/watch?v=IODSAp4fWLU
+
+
+####**Website**
+http://josephteo548.wixsite.com/eventus
 
 
 ###Instruction to Use The Prototype
